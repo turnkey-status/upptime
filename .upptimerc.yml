@@ -16,7 +16,7 @@ assignees:
 
 status-website:
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/turnkey-status/upptime/master/assets/TurnKey-logo-white-on-transparent.png
+  logoUrl: https://raw.githubusercontent.com/turnkey-status/upptime/master/assets/turnkey-logo-white-on-transparent.png
   name: TurnKey Status
   introTitle: TurnKey GNU/Linux status page, using **real-time** data from [GitHub repository](https://github.com/turnkey-status/upptime).
   introMessage: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
