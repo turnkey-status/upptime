@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/www.turnkeylinux.org",
     "slug": "turn-key-linux-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.54%",
+    "uptimeDay": "90.30%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "95.54%",
     "time": 952,
     "timeDay": 685,
     "timeWeek": 952,
     "timeMonth": 952,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2021-11-13": 0
+      "2021-11-14": 136,
+      "2021-11-13": 3
     }
   },
   {
