@@ -4,7 +4,7 @@
     "url": "https://hub.turnkeylinux.org",
     "icon": "https://favicons.githubusercontent.com/hub.turnkeylinux.org",
     "slug": "turn-key-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 304,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 0
+    }
   },
   {
     "name": "TurnKey Linux website",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.turnkeylinux.org",
     "slug": "turn-key-linux-website",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 2502,
     "timeDay": 3644,
     "timeWeek": 5914,
